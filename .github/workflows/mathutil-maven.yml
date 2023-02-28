@@ -25,7 +25,7 @@ jobs: # Những công việc dev làm thường ngày: lấy code, build, chạy
           java-version: '19' # Khai báo sử dụng phiên bản JDK 19 để build
           distribution: 'temurin'
      
-      - name: Build project with Ant
+      - name: Build project with Maven
         run: mvn package # Quá trình build sẽ cần đến file cấu hình build.xml, build-impl.xml
       
       - name: Distribute jar-war file # Gửi file .jar .war đi đâu, CD nhảy vào ...
