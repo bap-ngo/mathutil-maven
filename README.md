@@ -1,4 +1,4 @@
-[![CI with GitHub Actions using Ant and JUnit | © 2022 by ngo.khang](https://github.com/donot-fear/mathutil-ant/blob/main/.github/workflows/mathutil-ci-ant.yml/badge.svg)](https://github.com/donot-fear/mathutil-ant/blob/main/.github/workflows/mathutil-ci-ant.yml)
+[![CI with GitHub Actions using Maven and JUnit | © 2022 by ngo.khang](https://github.com/donot-fear/mathutil-maven/actions/workflows/mathutil-maven.yml/badge.svg)](https://github.com/donot-fear/mathutil-maven/actions/workflows/mathutil-maven.yml)
 
 # Welcome to Math Utility Repository 
 ### You will find in this repo the following stuff (Java source code):
